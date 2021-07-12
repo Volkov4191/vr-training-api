@@ -1,0 +1,19 @@
+https://jpath.ru/docs/misc/dev-tools/otladka-rasshireniya-joomla-v-ide-phpstorm
+
+Требования:
+- PHP 8
+- MySQL 5.6
+
+
+Админ-панель Easy Bundle
+https://github.com/EasyCorp/EasyAdminBundle
+https://symfony.com/doc/current/the-fast-track/ru/9-backend.html#configuring-easyadmin
+
+How to use Doctrine Extensions: Timestampable, Sluggable, Translatable, etc.
+https://symfony.com/doc/4.1/doctrine/common_extensions.html
+
+Embedding Relations in API
+https://api-platform.com/docs/core/serialization/#embedding-relations
+
+How to enable Gedmo's Listener
+https://github.com/doctrine-extensions/DoctrineExtensions/blob/main/doc/symfony4.md#ext-listeners
